@@ -1,6 +1,6 @@
 Package.describe({
 	name: "helloludger:mbox",
-	summary: "This package allows you to easily use a Meteor template within a bootbox dialog.",
+	summary: "This package allows you to easily use a Meteor template within a bootbox.js dialog.",
 	version: "1.0.0",
 	git: "https://github.com/HelloLudger/meteor-mbox.git",
 	documentation: "README.md"
