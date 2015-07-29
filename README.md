@@ -6,6 +6,7 @@
 You need Bootstrap and bootbox.js for this package. I use
 * [https://atmospherejs.com/mizzao/bootboxjs](https://atmospherejs.com/mizzao/bootboxjs) and
 * [https://atmospherejs.com/twbs/bootstrap](https://atmospherejs.com/twbs/bootstrap)
+
 but since there are many ways to include Bootstrap in your project, I only made mizzao:bootboxjs a weak dependency.
 
 ###Basics
